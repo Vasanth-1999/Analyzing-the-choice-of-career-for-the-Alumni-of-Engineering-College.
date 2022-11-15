@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vasanth-1999
 - 👀 I’m interested in improve my skills in software technologies.
-- 🌱 I’m currently learning django full stack web development.
+- 🌱 I’m currently learning PG Program in Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by github,linkedin profile. 
 
